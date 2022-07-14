@@ -1,16 +1,11 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
+  <h1>Hi there 👋</h1>
+  <br>
+  <p>Nothing here yet, just an empty void....</p>
+  <br>
+  <p>Currently working with the awesome people at <a href="https://sightdata.ai">Sightdata</a></p>
+  <p>Here a cool image from JWST</p>  
+  <img src="https://cdn.theatlantic.com/thumbor/_-FWpxlzBsgCh8IMgjNXBsxU3O8=/1500x869/media/img/photo/2022/07/first-images-from-the-james-webb-sp/a01_STScI-01/original.jpg"/>
+</div>
 
-<!--
-**faridaqel/faridaqel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
